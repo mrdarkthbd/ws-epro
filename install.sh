@@ -63,7 +63,7 @@ echo    "
 ░░░╚═╝░░░╚═╝░░╚═════╝░░░░░░░╚═╝░░░░░╚═╝░░╚═╝░╚════╝░"
 
 echo    "💙SCRIPT WEBSOCKET CLOUDFLARE SIN PRO E-PRO💙"
-echo    "Creditos A : @NETCOLVIP"
+echo    "Creditos A : DARKBD"
 echo    "════💙🧑🏽‍💻EDITADO POR NETCOLVIP🧑🏽‍💻💙════"
 echo    "╔════════════════════╗"
 echo    "   Puerto Local SSH: $openssh"
